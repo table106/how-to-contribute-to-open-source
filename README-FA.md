@@ -20,7 +20,7 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-# مشارکت کنندگان تازه وارد منبع-باز، خوش آمدید.
+# مشارکت کنندگان تازه وارد پروژه های منبع-باز یا اپن سورس خوش آمدید.
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
@@ -48,7 +48,7 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## مشارکت در منبع-باز بطور کلی
+##  منابع مشارکت در منبع-باز بطور کلی
 - [The Definitive Guide to Contributing to Open Source](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [Issuehub.io](http://issuehub.pro/) - a tool for searching GitHub issues by label and language.
@@ -98,7 +98,7 @@
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## مقالات مفید برای مشارکت کنندگان جدید منبع-باز
+##  مقالات مفید برای مشارکت کنندگان جدید در پروژه های منبع-باز
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://medium.freecodecamp.org/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.slc8i2h1l) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
